@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# 书籍工作目录产物（误在本目录运行时兜底）
+book/
+output/
+pending/
+done/
+cache.json
